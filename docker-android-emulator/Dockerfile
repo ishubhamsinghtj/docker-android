@@ -1,4 +1,4 @@
-FROM vgaidarji/docker-android-build:1.0.0
+FROM ishubhamsinghtj/docker-android-build:1.1.0
 
 ##################
 # Install emulator images
